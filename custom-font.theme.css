@@ -1,0 +1,13 @@
+/**
+ * @name Custom Font
+ * @author Fireentr
+ * @authorLink https://github.com/Fireentr
+ * @version 1.0.0
+ * @description Extremely basic theme to change the font of discord for the most part 
+ * @source https://github.com/Fireentr
+ * @website https://fireentr:dev/
+*/
+
+* {
+    font-family: 'Arial', sans-serif !important; /* Change with whatever font u want (needs to be installed or imported from google ofnts) */
+}
